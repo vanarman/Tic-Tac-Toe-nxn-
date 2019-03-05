@@ -16,7 +16,7 @@ This is a Tic Tac Toe game that can create board nxn.
 
 # Configuration
 If you want to add game with more than 3x3 board open ```main.js``` file and modify [line 108] ```new TicTacToe('buttonPlain', size_of_the_goard);```.
-Note: replace ```size_of_the_board``` by any integer value.
+Note: replace ```size_of_the_board``` by any positive integer value greater than 0.
 
 # Design
 You can change design of the game by styling it using CSS:
