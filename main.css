@@ -1,0 +1,20 @@
+div.row {
+	/* border: 1px solid #234567; */
+}
+
+button.cellBtn {
+	width: 50px;
+	height: 50px;
+	margin: 1px;
+	padding: 20px;
+	border: 1px solid rgb(198, 235, 191);
+	background-color: aquamarine;
+}
+
+button:disabled {
+	color: aliceblue;
+	border: 1px solid #1392f1;
+	background-color: #1392f1;
+	padding: 0px;
+	margin: 1px;
+}
